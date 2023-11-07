@@ -4,3 +4,12 @@ p {
    .green {
      color: green;
    }
+
+   .navigation-bar {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 24px;
+   }
+
+  
